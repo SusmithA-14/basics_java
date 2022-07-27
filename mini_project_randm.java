@@ -4,7 +4,7 @@ import java.util.Scanner;
 //random number
 //a random number is generated and ask the user to guess that random number, and if the number guessed by user is less than 
 //random number than the code says tha number is too small and if the number guessed by user is larger than random number 
-//then the code says it's too big and if the number guessed by user is equal to random number than print the number.
+//then the code says it's too big and if the number guessed by user is equal to random number than says it's the correct number.
 public class mini_project_randm {
     public static void main(String[] args) {
         int randomnumber=(int)(Math.random()*100);
